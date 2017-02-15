@@ -7,7 +7,7 @@ This gem help you give ip addr information.
 Go to project folder and run this command :
 
 ```
-gem install gem_file_name.gem # => change name to .gemfile name in project
+gem install gem_file_name.gem # => change name to .gem file name in project
 ```
 
 ## Example
@@ -38,7 +38,8 @@ Ipinfo::my_ip()
 
 ## Gem Need
 
-``` gem install colorize
+```
+gem install colorize
 ```
 
 ## Help
